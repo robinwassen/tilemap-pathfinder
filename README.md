@@ -1,5 +1,6 @@
-Tilemap A* Pathfinder
-=========
+<p align="center">
+	<img width="516" height="389" src="https://raw.githubusercontent.com/robinwassen/tilemap-pathfinder/master/StoreImageAssets/logotype-large-516x389.png">
+</p>
 
 > Scripts for A* pathfinding on Unity Tilemaps
 
