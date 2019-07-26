@@ -15,7 +15,15 @@ Copy or clone the scripts from this repo into your Unity project.
 Unity Asset Store installation
 ------------
 
-Go to the Unity Asset Store page and download it to your project.
+Go to the [Unity Asset Store page](https://assetstore.unity.com/packages/slug/151196) and download it to your project.
+
+How to use
+------------
+
+1. Install it to your Unity project
+2. Add the PathWalker and PathClickToWalk components to a game object
+3. Add your tilemaps that contains obstacle tiles to the PathClickToWalk
+4. Add your ground tilemap to the PathWalker
 
 Code structure overview
 ------------
